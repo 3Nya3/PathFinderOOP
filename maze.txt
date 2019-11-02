@@ -2,9 +2,9 @@ B   B   B   B   B   B   B   B   B   B   B
 B   .   .   B   B   B   B   B   C   .   B
 B   B   .   B   B   B   B   B   B   .   B
 B   B   .   B   B   B   B   B   .   .   B
-B   B   .   B   B   B   B   B   .   B   B
+B   B   .   .   .   .   .   .   .   B   B
 B   B   .   B   B   B   B   B   .   .   B
 B   B   .   B   B   B   B   B   B   .   B
 B   B   .   B   B   B   B   B   B   .   B
 B   B   .   .   .   .   .   .   .   .   B
-B   B   B   B   B   B   B   B   B   B   B
+B   B   X   B   B   B   B   B   B   B   B
