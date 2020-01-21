@@ -1,16 +1,3 @@
-/*=================================================================
-PathFinder2
-Frank Ye
-Date: 02, 11, 2019
-java, IntelliJ IDEA 2019.2.4 (Community Edition)
-=================================================================
-Problem Definition – Required to find the shortest path within a maze given starting point
-Input – A maze file and starting point coordinates
-Output – The path to the Goal and Exit and amount of steps it took to reach it
-Process – uses BFS to find shortest path and creates a route
-=================================================================
-*/
-
 package org.launchcode;
 
 import java.io.IOException;
