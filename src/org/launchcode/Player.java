@@ -1,11 +1,6 @@
 package org.launchcode;
 
 //****************************************************************************************
-//Player Class
-//Frank Ye
-//Date: 02, 11, 2019
-//java, IntelliJ IDEA 2019.2.4 (Community Edition)
-//****************************************************************************************
 //<Class>
 //This class store the player y position and x position
 //<List of Identifiers>
