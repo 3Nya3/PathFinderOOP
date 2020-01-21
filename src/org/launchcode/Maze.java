@@ -5,11 +5,6 @@ import java.io.IOException;
 import java.util.Scanner;
 
 //****************************************************************************************
-//Maze Class
-//Frank Ye
-//Date: 02, 11, 2019
-//java, IntelliJ IDEA 2019.2.4 (Community Edition)
-//****************************************************************************************
 //<Class>
 //This class uses the Player class to determine the shortest route
 //<List of Identifiers>
